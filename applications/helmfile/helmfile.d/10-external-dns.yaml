@@ -1,0 +1,9 @@
+repos:
+- name: bitnami
+  url: https://charts.bitnami.com/bitnami
+
+releases:
+- name: external-dns
+  namespace: dev-helmfile
+  chart: bitnami/external-dns
+  version: ~5
