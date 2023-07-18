@@ -4,6 +4,6 @@ repositories:
 
 releases:
 - name: external-dns
-  namespace: dev-helmfile
+  namespace: dope-applications
   chart: bitnami/external-dns
   version: ~6
