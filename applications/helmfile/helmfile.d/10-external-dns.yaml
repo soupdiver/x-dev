@@ -6,4 +6,4 @@ releases:
 - name: external-dns
   namespace: dev-helmfile
   chart: bitnami/external-dns
-  version: ~6
+  version: ~5
