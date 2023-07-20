@@ -7,3 +7,7 @@ releases:
   namespace: dope-applications
   chart: bitnami/external-dns
   version: ~6
+
+argocd:
+  plugin: helmfile
+  project: foo
