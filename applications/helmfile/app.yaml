@@ -1,8 +1,9 @@
-// {
-//     "argocd": {
-//         "project": "default"
-//     }
-// }
-
 argocd:
     project: default
+# {
+#     "argocd": {
+#         "project": "default"
+#     }
+# }
+
+
