@@ -8,6 +8,6 @@ releases:
   chart: bitnami/external-dns
   version: ~6
 
-argocd:
-  plugin: helmfile
-  project: default
+# argocd:
+#   plugin: helmfile
+#   project: default
