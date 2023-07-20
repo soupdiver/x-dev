@@ -10,4 +10,4 @@ releases:
 
 argocd:
   plugin: helmfile
-  project: foo
+  project: default
